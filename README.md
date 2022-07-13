@@ -46,7 +46,7 @@ In this project, use a delta of 0.00, checking that the first 2 decimal places m
 
 Include all 3 assertions in each test.
 
-Take a screenshot of the output showing the tests passed. Take screenshots of the code for the project and for the unit tests.
+Take a screenshot of the output showing the tests passed. Take screenshots of the code for the project and for the unit tests
 
 Submission: screenshot of passing unit tests, screenshots of code, root folder for the project
 
